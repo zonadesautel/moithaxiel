@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oolohrooca.1418.team/sitemap.xml
